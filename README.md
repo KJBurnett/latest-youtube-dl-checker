@@ -1,3 +1,7 @@
+# NOTE WARNING
+The [youtube-dl](https://github.com/ytdl-org/youtube-dl) project is now deprecated. The latest working forked project is [yt-dlp](https://github.com/yt-dlp/yt-dlp).
+I have created a new latest-version downloader here: https://github.com/KJBurnett/get-latest-yt-dlp-version
+
 # latest-youtube-dl-checker
 Checks the youtube-dl downloads page for the latest youtube-dl.exe and downloads and replaces the existing if there's a new version.
 
